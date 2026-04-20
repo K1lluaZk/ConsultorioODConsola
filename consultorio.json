@@ -1,0 +1,67 @@
+[
+    {
+        "id_card": "40210108276",
+        "name": "Miguel",
+        "phone": "50202020",
+        "client_type": "Particular",
+        "attention_type": "Limpieza",
+        "quantity": 1,
+        "priority": "Normal",
+        "appointment_date": "20111996",
+        "appointment_time": "1002",
+        "total_value": 140000,
+        "timestamp": "2026-04-19 22:02:07"
+    },
+    {
+        "id_card": "29478766",
+        "name": "Luis",
+        "phone": "3287965634",
+        "client_type": "Eps",
+        "attention_type": "Diagnóstico",
+        "quantity": 1,
+        "priority": "Normal",
+        "appointment_date": "01/05/2026",
+        "appointment_time": "10:45",
+        "total_value": 85268,
+        "timestamp": "2026-04-19 22:18:20"
+    },
+    {
+        "id_card": "70854314",
+        "name": "Marta",
+        "phone": "3627324988",
+        "client_type": "Particular",
+        "attention_type": "Calzas",
+        "quantity": 3,
+        "priority": "Normal",
+        "appointment_date": "28/06/2026",
+        "appointment_time": "13:15",
+        "total_value": 39652,
+        "timestamp": "2026-04-19 22:18:20"
+    },
+    {
+        "id_card": "40210108276",
+        "name": "Juan",
+        "phone": "8298889678",
+        "client_type": "Eps",
+        "attention_type": "Limpieza",
+        "quantity": 1,
+        "priority": "Normal",
+        "appointment_date": "29101999",
+        "appointment_time": "1011",
+        "total_value": 5000,
+        "timestamp": "2026-04-19 22:11:21"
+    },
+    {
+        "id_card": "67798852",
+        "name": "Marta",
+        "phone": "3414354324",
+        "client_type": "Prepagada",
+        "attention_type": "Diagnóstico",
+        "quantity": 2,
+        "priority": "Urgente",
+        "appointment_date": "28/10/2026",
+        "appointment_time": "14:15",
+        "total_value": 6619,
+        "timestamp": "2026-04-19 22:19:03"
+    }
+]
